@@ -558,7 +558,7 @@ class GalleryShooter extends Phaser.Scene {
 
         this.myScore = 0;
         this.myLives = 6;
-        this.wave = 3;
+        this.wave = 1;
         this.i = 0;
         this.o = 0;
         this.u = 0;
